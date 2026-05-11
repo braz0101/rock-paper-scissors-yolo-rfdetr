@@ -1,0 +1,4 @@
+ultralytics
+gradio
+onnxruntime
+opencv-python-headless
